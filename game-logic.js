@@ -64,7 +64,7 @@ if ((roundNumber < 1 || roundNumber > 3)) {return null;}
       || !playerOneMoveThreeType || !playerOneMoveThreeValue || !playerTwoMoveOneType || !playerTwoMoveOneValue
       || !playerTwoMoveTwoType || !playerTwoMoveThreeType || !playerTwoMoveThreeValue)
       {return null;} */
-if  (!moveOneType || !moveTwo)
+
 //Round Number 1
 
 if ((roundNumber === 1) && (playerOneMoveOneType === playerTwoMoveOneType)) {
